@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CartikKG
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on collaborate on Projectss
+- 💞️ I’m looking to collaborate on Projectss
 - 📫 How to reach me kartikguptampi@gmail.com
 
 <!---
