@@ -80,7 +80,6 @@
 
 <br />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CartikKG&layout=compact&theme=dark" />
 </div>
  <br />
 
