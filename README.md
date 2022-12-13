@@ -64,9 +64,6 @@
 ## Github Stats  
 <div display="flex" align-items:"center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=CartikKG&show_icons=true&count_private=true&hide_border=true"  />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CartikKG&theme=dark" alt=""/>
 </div>
- <br />
-
-<br />
 <div display="flex">
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=CartikKG&theme=dark" alt=""/> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartikKG&theme=vue" alt="summarycard"/> 
