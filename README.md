@@ -59,10 +59,10 @@
   
 
 <br/>  
-
+</div>
 
 ## Github Stats  
-<div display="flex" align="center"><img src="https://github-readme-stats.vercel.app/api?username=CartikKG&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CartikKG&theme=dark" alt=""/>
+<div display="flex" align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=CartikKG&show_icons=true&count_private=true&hide_border=true" align="center" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CartikKG&theme=dark" alt=""/>
 </div>
  <br />
 
