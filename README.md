@@ -66,5 +66,5 @@
 </div>
 <div display="flex">
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=CartikKG&theme=dark" alt=""/> 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartikKG&theme=vue" alt="summarycard"/> 
+<img width="98%" height: "150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartikKG&theme=vue" alt="summarycard"/> 
 </div>
