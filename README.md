@@ -68,6 +68,6 @@
 
 <br />
 <div display="flex">
-<img src="https://github-profile-trophy.vercel.app/?username=CartikKG&theme=dark" alt=""/> 
+<imgwidth="98%" src="https://github-profile-trophy.vercel.app/?username=CartikKG&theme=dark" alt=""/> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartikKG&theme=vue" alt="summarycard"/> 
 </div>
