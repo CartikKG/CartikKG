@@ -68,4 +68,6 @@
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=CartikKG&theme=dark" alt=""/> 
 <img  height:"15%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartikKG&theme=vue" alt="summarycard"/> 
 </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CartikKG&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=CartikKG&&style=flat-square" align="center" />
+ 
