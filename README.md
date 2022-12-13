@@ -67,6 +67,8 @@
  <br />
 
 <br />
+<div display="flex">
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CartikKG&theme=dark" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=CartikKG&theme=dark" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CartikKG&theme=vue" alt="summarycard"/> </p>
+</div>
