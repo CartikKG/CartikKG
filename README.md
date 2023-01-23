@@ -2,7 +2,6 @@
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" align="center" width="100%" height="390px" />
 </div>  
   
-
 ### <div align="center">👋I'm Kartik, Full-stack Developer 👨‍💻 </div>  
   
 
