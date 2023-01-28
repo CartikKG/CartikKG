@@ -4,8 +4,6 @@
   
   
   
-  
-  
 ### <div align="center">👋I'm Kartik, Full-stack Developer 👨‍💻 </div>  
   
 
