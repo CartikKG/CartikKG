@@ -5,8 +5,6 @@
   
   
 
-
-
 - 👀 I’m interested in Development  
   
 
