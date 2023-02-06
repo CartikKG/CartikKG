@@ -3,8 +3,6 @@
 </div>  
 ### <div align="center">👋I'm Kartik, Full-stack Developer 👨‍💻 </div>  
   
-  
-
 - 👀 I’m interested in Development  
   
 
