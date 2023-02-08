@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Full Stack Web Development  
   
   
-
 - 📫 How to reach me kartikguptampi@gmail.com  
   
 
